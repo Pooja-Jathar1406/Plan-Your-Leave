@@ -1,0 +1,17 @@
+.ContactUsBody{
+    background-image: url(../../public/Images/contactus.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.contactUsContent{
+    padding: 5px; 
+    border: 1px solid #747480;
+    box-shadow: 2px 2px 10px 2px #747480; 
+    border-radius: 10px;
+    text-align: center;
+    padding: 5px; 
+    border: 1px solid #747480;
+    box-shadow: 2px 2px 10px 2px #747480; 
+    border-radius: 10px;
+    background-color: white;
+}

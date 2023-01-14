@@ -1,0 +1,141 @@
+
+.heading{ 
+    font-size: 20px;
+    font-weight: bold;
+    padding: 5px;
+    margin: 25px;
+    background: #FFFFFF;
+    box-shadow: 0px 3px 8px 2px #1A0082;
+    border-radius: 0px 70px 0px 0px;
+    text-align:center;
+}
+.h1, .h2, .h3, .h4, .h5, .h6, h1, h2, h3, h4, h5, h6 {
+    margin-top: 0;
+    margin-bottom: 0.5rem; 
+    line-height: 1.5;
+    font-weight: bold;
+    color: #1A0082; 
+    text-shadow: 2px 4px 4px rgba(0, 0, 0, 0.25);
+    padding-right: 40px;
+}
+.pgicon img{
+    width: 50px;
+    height: 50px;
+}
+
+.lrcontent{
+    /* background: #F9F9FD; */
+    border: 1px solid #747480;
+    box-shadow: 2px 2px 10px 2px #747480; 
+    padding: 50px 70px;
+    font-weight: bold;
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+.availableLeaves{
+    background: #FFFFFF;
+    border: 1px solid #C4C4C4;
+    box-shadow: 0px 4px 4px rgb(0 0 0 / 25%);
+    padding: 20px;
+    text-align: center;
+}
+.LeaveCard{
+    
+    border: 1px solid #747480;
+    box-shadow:rgb(0 0 0 / 52%) 5px 5px 10px 3px;
+    border-radius: 0px 60px 0px 25px;
+    text-align: center;
+    padding: 40px 40px;
+    width: max-content;
+    margin: 20px;
+    text-shadow: 2px 4px 4px rgba(0, 0, 0, 0.55);
+}
+.card1{ 
+     /* background: #A9A9FF;    */
+    background-image: linear-gradient( #f9f8fa, #5924d7);
+}
+.card2{
+    /* background: #39B09B;  */
+    background-image: linear-gradient( #fbfffe, #009e81);
+}
+.card3{
+    /* background: #9DC151; */ 
+    background-image: linear-gradient( #f0ffcf, #2bb700);
+}
+.card4{
+    /* background: rgb(160 0 0 / 66%);; */ 
+    background-image: linear-gradient(rgba(252, 206, 206, 0.66), rgb(253 0 0));
+}
+ 
+
+.form-outline{
+    text-align: left;
+    padding: 0%;
+}
+.shoreq{
+    flex: 0 0 auto;
+    width: 100%;
+    padding: 0px;
+}
+#showreqbtn{
+    padding: 10px 50px;  
+    margin: 20px 0px 0px 0px;
+    text-align: center;
+    font-weight: bold;
+    background-image: linear-gradient(  rgb(113, 123, 238) , #1A0082);
+     
+    color: white;
+    box-shadow: 1px 1px 5px 1px #747480;
+} 
+.ApplyResetBtn{
+    border: none;
+    padding: 8px 30px;
+    background-image: linear-gradient( rgb(113, 123, 238) , #1A0082);
+    color: white;
+    border-radius: 5px;
+}
+.ApplyResetBtn:hover  { 
+    color: #e6e9ec;
+    background-color: #074eb8;
+    font-size: large;
+     
+} 
+.form-control{
+box-shadow: rgb(63 65 69 / 52%) 1px 1px 7px;
+}
+
+#myReqTbl{
+    background: #F9F9FD;
+    border: 1px solid #747480;
+    box-shadow: 2px 2px 10px 2px #747480; 
+    padding: 30px 40px;
+    font-weight: medium;
+    width: 100%;
+    display: flex;
+    justify-content: center;
+} 
+.tblRow{
+    padding: 5px;
+}
+.myReqTblData{
+    font-weight: normal;
+}
+
+.leaveApplnForm{
+    /* border: 2px solid black;  */
+    padding: 2% 5% 0% 10%;
+}
+#formid{
+    display: flex;
+    justify-content: center;
+}
+.fieldHeading{
+    text-align: left;
+}
+.note{
+    height: min-content;
+    width: 100%;
+    margin: 2% 0%;
+} 

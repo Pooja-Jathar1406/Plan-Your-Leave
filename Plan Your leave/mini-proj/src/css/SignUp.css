@@ -1,0 +1,26 @@
+.signUpBody{
+    background-image: url(../../public/Images/bg27.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.signupContent{
+    padding: 5px; 
+    border: 1px solid #747480;
+    box-shadow: 2px 2px 10px 2px #747480; 
+    border-radius: 10px;
+    background-color: white;
+}
+.SignUpbtn{
+    border: none;
+    padding: 8px 30px;
+    background-image: linear-gradient( rgb(113, 123, 238) , #1A0082);
+    color: white;
+    border-radius: 5px;
+}
+.SignUpbtn:hover  { 
+    color: #e6e9ec;
+    background-color: #074eb8;
+    font-size: large;
+     
+} 
